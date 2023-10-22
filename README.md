@@ -1,2 +1,4 @@
 # LunaVisor
-An UEFI-based Hypervisor for malware protection
+An Hypervisor for malware protection
+
+The aim is to support both UEFI and windows
